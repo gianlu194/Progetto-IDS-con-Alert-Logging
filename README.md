@@ -38,4 +38,3 @@ Questo Mini SOC è una palestra personale per imparare a gestire una rete in mod
 
 ---
 
-## 🧩 Architettura generale (schema logico)
