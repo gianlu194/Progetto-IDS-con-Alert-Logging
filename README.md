@@ -28,13 +28,16 @@ Il lab integra più componenti: un firewall pfSense, Snort per l’analisi degli
 
 ## 🎯 Obiettivo del progetto
 
-- Comprendere come si struttura un ambiente difensivo reale.  
-- Simulare il funzionamento di un SOC in piccolo.  
-- Allenare detection, analisi log, alerting e risposta.  
-- Studiare il comportamento degli attacchi all’interno della rete.  
-- Integrare firewall, IDS e SIEM in un unico flusso operativo.
+- Comprendere come si struttura un ambiente difensivo reale con IDS e firewall.
 
-Questo Mini SOC è una palestra personale per imparare a gestire una rete in modo sicuro, identificare minacce e reagire con logiche operative reali.
+- Simulare, in scala ridotta, il monitoraggio e l’analisi dei log tipici di un SOC.
 
+- Allenare detection, gestione alert e risposta agli eventi critici tramite notifiche automatiche.
+
+- Studiare il comportamento degli attacchi all’interno della rete protetta.
+
+- Integrare firewall pfSense, Snort come IDS e Splunk per il logging in un unico flusso operativo.
+
+- Questo laboratorio personale permette di esercitarsi nella gestione sicura di una rete, rilevare minacce e rispondere prontamente agli incidenti, replicando le logiche operative di un ambiente di sicurezza reale.
 ---
 
