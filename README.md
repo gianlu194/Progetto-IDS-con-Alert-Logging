@@ -1,9 +1,9 @@
-# SOC-Lab (Mini Security Operations Center)
+# IDS con LOGGIN e ALERT
 
-Questo progetto è un Mini SOC costruito per studiare, testare e simulare le principali funzioni difensive presenti in un ambiente reale.  
-L’obiettivo è comprendere come firewall, IDS, SIEM e sistemi di alerting lavorano insieme per rilevare, analizzare e rispondere agli incidenti di sicurezza.
+Questo progetto è un laboratorio di sicurezza costruito per studiare e testare il funzionamento di un IDS con alerting e logging.
+L’obiettivo è comprendere come monitorare il traffico di rete, rilevare comportamenti sospetti, centralizzare i log e inviare notifiche automatiche tramite bot Telegram in caso di eventi critici.
 
-Il lab integra più componenti, ognuna con un ruolo preciso: filtrare il traffico, individuare comportamenti sospetti, raccogliere log, correlare eventi e inviare notifiche immediate. È una piattaforma completa per allenarmi come Blue Team e comprendere il flusso di lavoro di un SOC operativo, in scala ridotta.
+Il lab integra più componenti: un firewall pfSense, Snort per l’analisi degli eventi, Splunk per il logging e Windows Server con Active Directory come ambiente protetto. È una piattaforma pratica per esercitarsi in difesa di rete e comprendere il flusso di lavoro di monitoraggio e gestione degli alert in un contesto controllato.
 
 ---
 
